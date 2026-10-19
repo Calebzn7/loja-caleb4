@@ -1,0 +1,140 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(9, 61, 249);
+    margin: 10;
+    padding: 10;
+
+}
+h1{
+    font-family: "Courier New", Courier, monospace;
+    color:rgb(0, 0, 0);
+}
+
+
+p{
+    font-family: "Times New Roman", Times, serif;
+    color:rgb(0, 0, 0);
+}
+
+.introducao{
+
+    width:350px;
+    margin: 80px auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: (0 4px 15px rgba(0),0, 0. 15);
+    text-align: center;
+    min-width: 50vh;
+    min-height: 50vh;
+    box-shadow: 15px rgb(0, 0, 0);
+}
+
+
+img{
+border-radius: 10px;
+}
+.elemento{
+    animation: flutuar 2s ease-in-out infinite;
+}
+
+
+
+button{
+    width: 97%;
+    margin: 12px ;
+    padding: 15px;
+    background-color: rgb(247, 246, 246);
+    border-radius: 8px;
+    text-align: center;
+    font-size:16px;
+    color: white;
+    cursor: pointer;
+}
+  
+input{ 
+    
+    width: 70%;
+    height: 1vh;
+    margin: 12px ;
+    padding: 15px;
+    background-color: rgb(1, 1, 1);
+    border-radius: 8px;
+    text-align: center;
+    font-size:16px;
+    color: white;
+    cursor: pointer;
+}
+.elemento {
+    animation: aparecer 5s ease;
+}
+body{
+    background:linear-gradient(135deg,#636161d7,#040404);
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin:0;
+}
+
+header{ 
+    background-color: (135deg,#636161d7,#040404);
+    height: 15vh;
+    width: 205vh;
+    border-radius: 8px;
+    text-align: center;
+    align-content: center;
+}
+
+button {
+    width: 97%;
+    margin: 12px ;
+    padding: 15px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 8px;
+    text-align: center;
+    font-size:16px;
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    width: 92%;
+    margin: 12px ;
+    padding: 15px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 8px;
+    text-align: center;
+    font-size:16px;
+    color: white;
+    cursor: pointer;
+}
+ 
+
+.cadastro{
+
+    width:350px;
+    margin: 50px auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px ;
+    border-radius: 15px;
+    box-shadow: (0 4px 15px rgba(0),0, 0. 15);
+    text-align: center;
+    min-width: 50vh;
+    min-height: 50vh;
+    box-shadow: 15px rgb(0, 0, 0);
+}
+
+button.cadastro {
+    width: 350px;
+    margin: 50px  auto ;
+    padding: 30px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 15px;
+    text-align: center;
+    font-size:16px;
+    color: white;
+    cursor: pointer;
+}
+
